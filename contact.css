@@ -1,0 +1,211 @@
+.border-1{
+    position: absolute;
+    border: 1px solid rgb(140, 143, 144);
+    background-color:rgb(140, 143, 144);
+    position:relative;
+    width: 100%;
+    height: 800px;
+}
+.HAS{
+    padding: 10px;
+    position:absolute;
+    top: 0;
+    left: 0;
+    
+}
+.h1{
+    position:absolute;
+    left: 60px;
+    top: 10px;
+    font-weight: bold;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.navbar{
+    position:absolute;
+    right:0;
+    top: 5px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: lighter;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+    width: 450px;
+    
+    
+}
+.img{
+    opacity: 0.6;
+}
+.h2{
+    position: absolute;
+    top: 43%;
+    left: 40%;
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.border-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: transparent;
+    width: 80%;
+    margin: auto;
+    margin-top: 60px;
+    height: 400px;
+
+}
+.img-border{
+    border-radius: 10px;
+}
+.item-2{
+    position: relative;
+    top: 40px;
+    color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+
+}
+.head{
+    font-weight: bold;
+    font-size: 25px;
+    color: chocolate;
+    opacity: none;
+}
+ .para-1, .para-2, .para-3, .para-4{
+    opacity: 0.7;
+}
+.btn{
+    text-decoration: none;
+}
+.btn:hover{
+    border: 1px solid white;
+    background-color:white;
+    opacity: 0.5;
+    
+}
+hr{
+    position: relative;
+    width: 90%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 1px;
+    background-color: black;
+    opacity: 0.3;
+}
+.form-head{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.form-subhead{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    opacity: 0.5;
+    text-align: center;
+
+}.border-3{
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    margin-top: 40px;
+    border: transparent;
+    padding: 10px;
+}
+.border-3:hover{
+    box-shadow: 1px 1px 7px black;
+}
+.box1{
+    width:100% ;
+    height: 60px;
+    border: transparent;
+    position: relative;
+    top: 5%;
+    
+}
+.b1{
+    position: absolute;
+    width: 45%;
+    font-size: 15px;
+    height: 50px;
+    border: 1px solid gray ;
+    padding: 15px;
+}
+.box2{
+    width:100% ;
+    height: 60px;
+    border: transparent;
+    position: relative;
+    top: 12%;
+
+}
+.b2{
+    position: absolute;
+    left: 54%;
+    width: 45%;
+    font-size: 15px;
+    height: 50px;
+    border: 1px solid gray ;
+    padding: 15px;
+}
+.b3{
+    position: absolute;
+    width: 45%;
+    font-size: 15px;
+    height: 50px;
+    border: 1px solid gray ;
+    padding: 15px;
+}
+.b4{
+    position: absolute;
+    left: 54%;
+    width: 45%;
+    font-size: 15px;
+    height: 50px;
+    border: 1px solid gray ;
+    padding: 15px;
+}
+.box5{
+    width:100% ;
+    height: 200px;
+    border: 1px solid gray;
+    position: relative;
+    top: 19%;
+    
+}
+
+.b5{
+    font-size: 15px;
+    padding: 15px;
+    border: transparent;
+
+}
+.b1, .b2, .b3, .b4{
+    height: 45%;
+    width: 43%;
+}
+.button{
+    width: 180px;
+    height: 40px;
+    position: relative;
+    left: 45%;
+    margin-top: 40px;
+    background-color: transparent;
+    border: 1px solid black;
+    text-align: center;
+    
+
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
+
+
